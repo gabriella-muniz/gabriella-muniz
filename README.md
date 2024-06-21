@@ -1,7 +1,17 @@
 ### Olá! Eu sou a Gabriella Muniz ✌🏾
 🌱 Atualmente estou estudando para me tornar uma programadora Front-end.
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriella-muniz&show_icons=true&theme=midnight-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriella-muniz&layout=donut)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=gabriella-muniz&show_icons=true&theme=midnight-purple" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriella-muniz&layout=donut" />
+    </td>
+  </tr>
+</table>
+
  ### Tecnologias que uso
 <div style="display: inline-block;">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
@@ -29,13 +39,6 @@
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="golang">
 
 <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" alt="golang">
-
-
-https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D
-
-https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
-
-https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql
 
 
 </div>
