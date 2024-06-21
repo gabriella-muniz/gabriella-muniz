@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Gabriella Muniz ✌🏾
 🌱 Atualmente estou estudando para me tornar uma programadora Front-end.
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriella-muniz&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriella-muniz&layout=compact)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriella-muniz&show_icons=true&theme=midnight-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriella-muniz&layout=donut)
  ### Tecnologias que uso
 <div style="display: inline-block;">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
@@ -21,6 +21,21 @@
 <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=whi" alt="next">
 
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firerbase">
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="golang">
+
+<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="golang">
+
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="golang">
+
+<img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" alt="golang">
+
+
+https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D
+
+https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
+
+https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql
 
 
 </div>
